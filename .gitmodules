@@ -23,6 +23,10 @@
 	path = corazon
 	url = https://github.com/feddelegrand7/corazon
 	shallow = true
+[submodule "cronologia"]
+	path = cronologia
+	url = https://github.com/feddelegrand7/cronologia
+	shallow = true
 [submodule "fabricerin"]
 	path = fabricerin
 	url = https://github.com/feddelegrand7/fabricerin
