@@ -51,6 +51,10 @@
 	path = radous
 	url = https://github.com/feddelegrand7/radous
 	shallow = true
+[submodule "ralger"]
+	path = ralger
+	url = https://github.com/feddelegrand7/ralger
+	shallow = true
 [submodule "rintimg"]
 	path = rintimg
 	url = https://github.com/feddelegrand7/rintimg
