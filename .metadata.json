@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "ddplot",
+    "oncran": true
+  },
+  {
     "package": "fabricerin",
     "oncran": true
   },

@@ -33,6 +33,11 @@
 	url = https://github.com/feddelegrand7/cronologia
 	shallow = true
 	registered = true
+[submodule "ddplot"]
+	path = ddplot
+	url = https://github.com/feddelegrand7/ddplot
+	shallow = true
+	registered = true
 [submodule "fabricerin"]
 	path = fabricerin
 	url = https://github.com/feddelegrand7/fabricerin
