@@ -1,42 +1,6 @@
 [
   {
-    "package": "algo",
-    "oncran": true
-  },
-  {
-    "package": "BARIS",
-    "oncran": true
-  },
-  {
-    "package": "batata",
-    "oncran": true
-  },
-  {
-    "package": "bubblyr",
-    "oncran": true
-  },
-  {
-    "package": "corazon",
-    "oncran": true
-  },
-  {
-    "package": "cronologia",
-    "oncran": true
-  },
-  {
-    "package": "ddplot",
-    "oncran": true
-  },
-  {
     "package": "fabricerin",
-    "oncran": true
-  },
-  {
-    "package": "farrell",
-    "oncran": true
-  },
-  {
-    "package": "flipdownr",
     "oncran": true
   },
   {
@@ -44,19 +8,11 @@
     "oncran": true
   },
   {
-    "package": "mailtoR",
+    "package": "corazon",
     "oncran": true
   },
   {
-    "package": "radous",
-    "oncran": true
-  },
-  {
-    "package": "ralger",
-    "oncran": true
-  },
-  {
-    "package": "rintimg",
+    "package": "BARIS",
     "oncran": true
   },
   {
@@ -64,11 +20,55 @@
     "oncran": true
   },
   {
-    "package": "savonliquide",
+    "package": "mailtoR",
+    "oncran": true
+  },
+  {
+    "package": "cronologia",
+    "oncran": true
+  },
+  {
+    "package": "radous",
     "oncran": true
   },
   {
     "package": "scrollrevealR",
+    "oncran": true
+  },
+  {
+    "package": "bubblyr",
+    "oncran": true
+  },
+  {
+    "package": "batata",
+    "oncran": true
+  },
+  {
+    "package": "flipdownr",
+    "oncran": true
+  },
+  {
+    "package": "algo",
+    "oncran": true
+  },
+  {
+    "package": "savonliquide",
+    "oncran": true
+  },
+  {
+    "package": "rintimg",
+    "oncran": true
+  },
+  {
+    "package": "ddplot",
+    "oncran": true
+  },
+  {
+    "package": "farrell",
+    "oncran": true
+  },
+  {
+    "package": "ralger",
     "oncran": true
   }
 ]
