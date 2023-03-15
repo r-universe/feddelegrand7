@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fabricerin"]
-	path = fabricerin
-	url = https://github.com/feddelegrand7/fabricerin
-	shallow = true
-	registered = true
-[submodule "GomoGomonoMi"]
-	path = GomoGomonoMi
-	url = https://github.com/feddelegrand7/gomogomonomi
-	shallow = true
-	registered = true
-[submodule "corazon"]
-	path = corazon
-	url = https://github.com/feddelegrand7/corazon
+[submodule "algo"]
+	path = algo
+	url = https://github.com/feddelegrand7/algo
 	shallow = true
 	registered = true
 [submodule "BARIS"]
@@ -23,29 +13,9 @@
 	url = https://github.com/feddelegrand7/baris
 	shallow = true
 	registered = true
-[submodule "Rnightly"]
-	path = Rnightly
-	url = https://github.com/feddelegrand7/rnightly
-	shallow = true
-	registered = true
-[submodule "mailtoR"]
-	path = mailtoR
-	url = https://github.com/feddelegrand7/mailtor
-	shallow = true
-	registered = true
-[submodule "cronologia"]
-	path = cronologia
-	url = https://github.com/feddelegrand7/cronologia
-	shallow = true
-	registered = true
-[submodule "radous"]
-	path = radous
-	url = https://github.com/feddelegrand7/radous
-	shallow = true
-	registered = true
-[submodule "scrollrevealR"]
-	path = scrollrevealR
-	url = https://github.com/feddelegrand7/scrollrevealr
+[submodule "batata"]
+	path = batata
+	url = https://github.com/feddelegrand7/batata
 	shallow = true
 	registered = true
 [submodule "bubblyr"]
@@ -53,29 +23,14 @@
 	url = https://github.com/feddelegrand7/bubblyr
 	shallow = true
 	registered = true
-[submodule "batata"]
-	path = batata
-	url = https://github.com/feddelegrand7/batata
+[submodule "corazon"]
+	path = corazon
+	url = https://github.com/feddelegrand7/corazon
 	shallow = true
 	registered = true
-[submodule "flipdownr"]
-	path = flipdownr
-	url = https://github.com/feddelegrand7/flipdownr
-	shallow = true
-	registered = true
-[submodule "algo"]
-	path = algo
-	url = https://github.com/feddelegrand7/algo
-	shallow = true
-	registered = true
-[submodule "savonliquide"]
-	path = savonliquide
-	url = https://github.com/feddelegrand7/savonliquide
-	shallow = true
-	registered = true
-[submodule "rintimg"]
-	path = rintimg
-	url = https://github.com/feddelegrand7/rintimg
+[submodule "cronologia"]
+	path = cronologia
+	url = https://github.com/feddelegrand7/cronologia
 	shallow = true
 	registered = true
 [submodule "ddplot"]
@@ -83,13 +38,58 @@
 	url = https://github.com/feddelegrand7/ddplot
 	shallow = true
 	registered = true
+[submodule "fabricerin"]
+	path = fabricerin
+	url = https://github.com/feddelegrand7/fabricerin
+	shallow = true
+	registered = true
 [submodule "farrell"]
 	path = farrell
 	url = https://github.com/feddelegrand7/farrell
 	shallow = true
 	registered = true
+[submodule "flipdownr"]
+	path = flipdownr
+	url = https://github.com/feddelegrand7/flipdownr
+	shallow = true
+	registered = true
+[submodule "GomoGomonoMi"]
+	path = GomoGomonoMi
+	url = https://github.com/feddelegrand7/gomogomonomi
+	shallow = true
+	registered = true
+[submodule "mailtoR"]
+	path = mailtoR
+	url = https://github.com/feddelegrand7/mailtor
+	shallow = true
+	registered = true
+[submodule "radous"]
+	path = radous
+	url = https://github.com/feddelegrand7/radous
+	shallow = true
+	registered = true
 [submodule "ralger"]
 	path = ralger
 	url = https://github.com/feddelegrand7/ralger
+	shallow = true
+	registered = true
+[submodule "rintimg"]
+	path = rintimg
+	url = https://github.com/feddelegrand7/rintimg
+	shallow = true
+	registered = true
+[submodule "Rnightly"]
+	path = Rnightly
+	url = https://github.com/feddelegrand7/rnightly
+	shallow = true
+	registered = true
+[submodule "savonliquide"]
+	path = savonliquide
+	url = https://github.com/feddelegrand7/savonliquide
+	shallow = true
+	registered = true
+[submodule "scrollrevealR"]
+	path = scrollrevealR
+	url = https://github.com/feddelegrand7/scrollrevealr
 	shallow = true
 	registered = true

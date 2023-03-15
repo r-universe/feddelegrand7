@@ -1,14 +1,6 @@
 [
   {
-    "package": "fabricerin",
-    "oncran": true
-  },
-  {
-    "package": "GomoGomonoMi",
-    "oncran": true
-  },
-  {
-    "package": "corazon",
+    "package": "algo",
     "oncran": true
   },
   {
@@ -16,23 +8,7 @@
     "oncran": true
   },
   {
-    "package": "Rnightly",
-    "oncran": true
-  },
-  {
-    "package": "mailtoR",
-    "oncran": true
-  },
-  {
-    "package": "cronologia",
-    "oncran": true
-  },
-  {
-    "package": "radous",
-    "oncran": true
-  },
-  {
-    "package": "scrollrevealR",
+    "package": "batata",
     "oncran": true
   },
   {
@@ -40,23 +16,11 @@
     "oncran": true
   },
   {
-    "package": "batata",
+    "package": "corazon",
     "oncran": true
   },
   {
-    "package": "flipdownr",
-    "oncran": true
-  },
-  {
-    "package": "algo",
-    "oncran": true
-  },
-  {
-    "package": "savonliquide",
-    "oncran": true
-  },
-  {
-    "package": "rintimg",
+    "package": "cronologia",
     "oncran": true
   },
   {
@@ -64,11 +28,47 @@
     "oncran": true
   },
   {
+    "package": "fabricerin",
+    "oncran": true
+  },
+  {
     "package": "farrell",
     "oncran": true
   },
   {
+    "package": "flipdownr",
+    "oncran": true
+  },
+  {
+    "package": "GomoGomonoMi",
+    "oncran": true
+  },
+  {
+    "package": "mailtoR",
+    "oncran": true
+  },
+  {
+    "package": "radous",
+    "oncran": true
+  },
+  {
     "package": "ralger",
+    "oncran": true
+  },
+  {
+    "package": "rintimg",
+    "oncran": true
+  },
+  {
+    "package": "Rnightly",
+    "oncran": true
+  },
+  {
+    "package": "savonliquide",
+    "oncran": true
+  },
+  {
+    "package": "scrollrevealR",
     "oncran": true
   }
 ]
