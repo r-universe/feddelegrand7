@@ -8,11 +8,6 @@
 	url = https://github.com/feddelegrand7/algo
 	shallow = true
 	registered = true
-[submodule "BARIS"]
-	path = BARIS
-	url = https://github.com/feddelegrand7/baris
-	shallow = true
-	registered = true
 [submodule "batata"]
 	path = batata
 	url = https://github.com/feddelegrand7/batata
