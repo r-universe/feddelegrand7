@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GomoGomonoMi"]
+	path = GomoGomonoMi
+	url = https://github.com/feddelegrand7/gomogomonomi
+[submodule "Rnightly"]
+	path = Rnightly
+	url = https://github.com/feddelegrand7/rnightly
 [submodule "algo"]
 	path = algo
 	url = https://github.com/feddelegrand7/algo
@@ -29,9 +35,6 @@
 [submodule "flipdownr"]
 	path = flipdownr
 	url = https://github.com/feddelegrand7/flipdownr
-[submodule "GomoGomonoMi"]
-	path = GomoGomonoMi
-	url = https://github.com/feddelegrand7/gomogomonomi
 [submodule "mailtoR"]
 	path = mailtoR
 	url = https://github.com/feddelegrand7/mailtor
@@ -44,9 +47,6 @@
 [submodule "rintimg"]
 	path = rintimg
 	url = https://github.com/feddelegrand7/rintimg
-[submodule "Rnightly"]
-	path = Rnightly
-	url = https://github.com/feddelegrand7/rnightly
 [submodule "savonliquide"]
 	path = savonliquide
 	url = https://github.com/feddelegrand7/savonliquide
