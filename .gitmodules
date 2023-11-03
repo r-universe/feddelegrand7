@@ -44,6 +44,9 @@
 [submodule "ralger"]
 	path = ralger
 	url = https://github.com/feddelegrand7/ralger
+[submodule "rfold"]
+	path = rfold
+	url = https://github.com/feddelegrand7/rfold
 [submodule "rintimg"]
 	path = rintimg
 	url = https://github.com/feddelegrand7/rintimg
