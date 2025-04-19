@@ -59,3 +59,6 @@
 [submodule "scrollrevealR"]
 	path = scrollrevealR
 	url = https://github.com/feddelegrand7/scrollrevealr
+[submodule "slash"]
+	path = slash
+	url = https://github.com/feddelegrand7/slash
