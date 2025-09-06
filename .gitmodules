@@ -38,6 +38,9 @@
 [submodule "mailtoR"]
 	path = mailtoR
 	url = https://github.com/feddelegrand7/mailtor
+[submodule "mini007"]
+	path = mini007
+	url = https://github.com/feddelegrand7/mini007
 [submodule "radous"]
 	path = radous
 	url = https://github.com/feddelegrand7/radous
