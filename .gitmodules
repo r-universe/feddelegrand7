@@ -62,6 +62,9 @@
 [submodule "scrollrevealR"]
 	path = scrollrevealR
 	url = https://github.com/feddelegrand7/scrollrevealr
+[submodule "sicher"]
+	path = sicher
+	url = https://github.com/feddelegrand7/sicher
 [submodule "slash"]
 	path = slash
 	url = https://github.com/feddelegrand7/slash
